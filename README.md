@@ -3,14 +3,12 @@
 ## Overview
 This project demonstrates a **Smart Street Lighting System** that harnesses mechanical energy from vehicles using **piezoelectric materials** and converts it into electrical energy. The stored energy can be used to power street lights at night or even sold back to the power grid, promoting sustainable and energy-efficient urban infrastructure.
 
----
 
 ## Project Type
 - **ICAT Project** (First-year university project)
 - Field: Civil Engineering
 - Focus: Energy conversion and sustainable infrastructure
 
----
 
 ## How It Works
 1. **Piezoelectric Road**: A section of road embedded with piezoelectric materials generates electricity when vehicles pass over it.  
@@ -36,6 +34,3 @@ This project demonstrates a **Smart Street Lighting System** that harnesses mech
 - Converts mechanical energy to electrical energy efficiently  
 - Reduces dependency on external power for street lighting  
 - Promotes green energy solutions in urban infrastructure  
-
-
-## File Structure Suggestion
