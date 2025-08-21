@@ -1,13 +1,41 @@
 # Smart Street Lighting System
 
-This repository contains my project on developing a smart street lighting system powered through piezoelectric energy harvesting. The main idea behind this project was to convert the vibrations produced by vehicles on the road into electricity and use that energy to power LED street lights. By doing so, the system reduces dependency on conventional electricity sources and promotes the use of renewable energy in urban infrastructure.
+## Overview
+This project demonstrates a **Smart Street Lighting System** that harnesses mechanical energy from vehicles using **piezoelectric materials** and converts it into electrical energy. The stored energy can be used to power street lights at night or even sold back to the power grid, promoting sustainable and energy-efficient urban infrastructure.
 
-The project covers different aspects including the design of piezoelectric plates, energy storage methods, and the connection to LED street lights. I also carried out testing to measure the output efficiency of the plates and to analyze how much power could realistically be generated from road vibrations.
+---
 
-Inside this repository, you will find:
-- **Reports** – full documentation, design approach, and calculations  
-- **Data** – piezoelectric output results and performance tests  
-- **Diagrams** – circuit layouts and system designs  
-- **Photos** – images of prototypes, components, and testing process  
+## Project Type
+- **ICAT Project** (First-year university project)
+- Field: Civil Engineering
+- Focus: Energy conversion and sustainable infrastructure
 
-This project gave me hands-on experience with sustainable energy applications and strengthened my interest in developing smart, eco-friendly infrastructure solutions. It also taught me the importance of combining theoretical knowledge with practical testing to evaluate the feasibility of an idea.  
+---
+
+## How It Works
+1. **Piezoelectric Road**: A section of road embedded with piezoelectric materials generates electricity when vehicles pass over it.  
+2. **Energy Storage**: Electrical energy generated is stored using **capacitors** and regulated with **diodes**.  
+3. **Energy Utilization**:  
+   - Powers street lights during the night.  
+   - Excess energy can be sold back to the local power station.  
+
+## Components Used
+- Piezoelectric materials
+- Capacitors
+- Diodes
+- Microcontroller/Arduino (optional for demonstration)
+- LEDs (for street light simulation)
+
+
+## Practical Demonstration
+- Mechanical energy from cars → Piezoelectric sensors → Electrical energy stored → Street lights powered  
+- The system is **sustainable**, **eco-friendly**, and demonstrates **energy recovery from everyday traffic**.
+
+
+## Outcomes
+- Converts mechanical energy to electrical energy efficiently  
+- Reduces dependency on external power for street lighting  
+- Promotes green energy solutions in urban infrastructure  
+
+
+## File Structure Suggestion
